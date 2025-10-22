@@ -9,6 +9,7 @@
   "checkCountDownloadsFilesCurrent": 0,
   "checkReleasePackageName": "com.WestPort.sa",
   "checkFilesGameURL": "https://d1.flin-rp.com/client/filesgame/",
+  "checkFilesModel": "files.zip",
   "checkFilesGame1": "files.z01",
   "checkFilesGame2": "files.z02",
   "checkFilesGame3": "files.zip",
