@@ -10,6 +10,8 @@
   "checkReleasePackageName": "com.WestPort.sa",
   "checkFilesGameURL": "https://s9.uupload.ir/files/itzamaf/",
   "checkFilesModel": "files.zip",
+  "checkFilesACURL": "https://s9.uupload.ir/files/itzamaf/",
+  "checkFilesAC": "files.zip",
   "checkFilesGame1": "files.z01",
   "checkFilesGame2": "files.z02",
   "checkFilesGame3": "files.zip",
