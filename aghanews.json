@@ -3,8 +3,8 @@
     "id":1,
     "name":"admin mord",
     "description":"migan ye admin morde",
-    "img_1":"http://westport-rp.ir/news/news2.png",
-    "img_2":"http://westport-rp.ir/news/news2.png",
+    "img_1":"https://via.placeholder.com/150",
+    "img_2":"https://via.placeholder.com/150",
     "data":"2025",
     "versionName":"22",
     "type":5,
@@ -44,6 +44,7 @@
     "url":"https://t.me/westportroleplay"
   }
 ]
+
 
 
 
