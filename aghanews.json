@@ -4,8 +4,8 @@
     "name":"خبر خبر دو",
     "title":"میگن یه ادمین کتک خورده",
     "description":"دادا یه ادمین عین سگ کتک خورده\nمیخوای ببینی چه خبره؟",
-    "newlb":"چه خبره؟",
-    "newrb":"نه",
+    "newrb":"چه خبره؟",
+    "newlb":"نه",
     "img_1":"https://s27.uupload.ir/files/itzamaf/news/new1.jpg",
     "img_2":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
     "data":"2025",
@@ -18,8 +18,8 @@
     "name":"admin mord2",
     "title":"migan ye admin morde",
     "description":"migan ye admin morde",
-    "newlb":"open",
-    "newrb":"close",
+    "newrb":"open",
+    "newlb":"close",
     "img_1":"https://flin-online.uz/client/news/1.jpg",
     "img_2":"https://flin-online.uz/client/news/2.jpg",
     "data":"2025",
@@ -32,8 +32,8 @@
     "name":"admin mord",
     "title":"migan ye admin morde",
     "description":"migan ye admin morde",
-    "newlb":"open",
-    "newrb":"close",
+    "newrb":"open",
+    "newlb":"close",
     "img_1":"https://flin-online.uz/client/news/1.jpg",
     "img_2":"https://flin-online.uz/client/news/2.jpg",
     "data":"2025",
@@ -46,8 +46,8 @@
     "name":"admin mord2",
     "title":"migan ye admin morde",
     "description":"migan ye admin morde",
-    "newlb":"open",
-    "newrb":"close",
+    "newrb":"open",
+    "newlb":"close",
     "img_1":"https://flin-online.uz/client/news/1.jpg",
     "img_2":"https://flin-online.uz/client/news/2.jpg",
     "data":"2025",
@@ -56,6 +56,7 @@
     "url":"https://t.me/westportroleplay"
   }
 ]
+
 
 
 
