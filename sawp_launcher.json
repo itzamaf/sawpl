@@ -2,7 +2,7 @@
   "serverip": "5.42.223.178",
   "serverport": 7777,
   "UIP": "5.42.223.178",
-  "json_news_link": "https://raw.githubusercontent.com/itzamaf/sawpl/main/aghanews.json",
+  "jsonnewslink": "https://raw.githubusercontent.com/itzamaf/sawpl/main/aghanews.json",
   "loagingNews1": 1,
   "loagingNews2": 0,
   "loagingNews3": 0,
