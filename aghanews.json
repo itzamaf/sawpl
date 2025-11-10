@@ -15,12 +15,12 @@
   },
   {
     "id":2,
-    "name":"admin mord2",
+    "name":"شاهتین بلادز",
     "title":"migan ye admin morde",
     "description":"migan ye admin morde",
     "newrb":"open",
     "newlb":"close",
-    "img_1":"https://flin-online.uz/client/news/1.jpg",
+    "img_1":"https://s27.uupload.ir/files/itzamaf/news/artin.jpg",
     "img_2":"https://flin-online.uz/client/news/2.jpg",
     "data":"2025",
     "versionName":"22",
@@ -56,6 +56,7 @@
     "url":"https://t.me/westportroleplay"
   }
 ]
+
 
 
 
