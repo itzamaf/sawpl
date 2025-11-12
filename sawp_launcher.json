@@ -66,6 +66,7 @@
   "PayMethodServer1": "https://unitpay.ru/pay/182051-6b933?sum=",
   "PayMethodServer2": "https://unitpay.ru/pay/203041-490e1?sum=",
   "urlMonitoring": "https://unitpay.ru/pay/203041-490e1?sum=",
+  "contactUS": "@example_telegram",
   "contactTelegram": "@example_telegram",
   "contactVK": "https://vk.com/example",
   "contactDiscord": "https://discord.gg/example",
